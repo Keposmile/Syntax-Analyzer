@@ -1,0 +1,9 @@
+{
+  "name": "syntax-analyzer",
+  "version": "0.0.0",
+  "description": "Syntax Analyzer",
+  "main": "app.js",
+  "author": {
+    "name": "Keposmile"
+  }
+}
